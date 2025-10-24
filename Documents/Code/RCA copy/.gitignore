@@ -1,0 +1,127 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files and datasets
+data/
+*.csv
+*.jsonl
+*.json
+*.txt
+*.inv
+*.graphml
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# Output directories
+outputs/
+sampled_path/
+gen_rules_iteration/
+tmp/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Model files
+*.model
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Large files that shouldn't be in git
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Configuration files with sensitive data
+config.json
+secrets.json
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Specific to this project
+Telecom/telemetry/
+LLM-DA/datasets/
+LLM-DA/gen_rules_iteration/
+LLM-DA/sampled_path/
+LLM-DA/tmp/
+KG-RCA/outputs/
+KG-RCA/sample_data/
+KG-RCA/venv/
+KG-RCA2/outputs/
+KG-RCA2/sample_data/
+DyRCA/__pycache__/
+DyRCA/agents/__pycache__/
+DyRCA/scoring/__pycache__/
+DyRCA/walks/__pycache__/
+KG-RCA/kg_rca/__pycache__/
+KG-RCA2/kg_rca/__pycache__/
+KG-RCA2/agent/__pycache__/
+LLM-DA/__pycache__/
+LLM-DA/llms/__pycache__/

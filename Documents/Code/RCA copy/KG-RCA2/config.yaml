@@ -1,0 +1,73 @@
+# KG-RCA2 Configuration
+# 数据路径配置
+data:
+  root: "./data"  # 数据根目录
+  datasets:
+    - "Bank"
+    - "Telecom"
+    - "E-commerce"
+  
+# 输出配置
+output:
+  root: "./outputs"  # 输出根目录
+  format: ["csv", "graphml", "json"]  # 输出格式
+  
+# 处理配置
+processing:
+  max_problems: 10  # 最大处理问题数
+  time_window: 3600  # 时间窗口(秒)
+  minute_bucket: true  # 是否按分钟分桶
+  
+# 性能配置
+performance:
+  memory_limit: "4GB"  # 内存限制
+  batch_size: 1000  # 批处理大小
+  parallel: false  # 是否并行处理
+
+# LLM-DA 集成配置
+llmda:
+  # 数据路径
+  nodes_path: "LLM-DA/datasets/tkg/nodes.parquet"
+  edges_path: "LLM-DA/datasets/tkg/edges.parquet"
+  index_path: "LLM-DA/datasets/tkg/index.json"
+  
+  # 时间窗口配置
+  k_minutes: 5  # 时间窗口大小（分钟）
+  
+  # 随机游走配置
+  walk:
+    max_len: 4  # 最大路径长度
+    num_paths: 200  # 路径数量
+    lambda_time_decay: 0.2  # 时间衰减参数
+    
+  # 评分配置
+  score:
+    alpha_support: 0.4  # 支持度权重
+    beta_temporal_earliness: 0.3  # 时间早发性权重
+    gamma_upstreamness: 0.2  # 上游性权重
+    delta_noise: 0.1  # 噪声权重
+    
+  # 规则学习配置
+  rules:
+    min_support: 0.1  # 最小支持度
+    min_confidence: 0.5  # 最小置信度
+    max_rules: 100  # 最大规则数
+    
+  # 根因分析配置
+  rca:
+    max_candidates: 10  # 最大候选根因数
+    confidence_threshold: 0.3  # 置信度阈值
+    evidence_paths_limit: 10  # 证据路径数量限制
+
+# 调试配置
+debug:
+  enabled: false  # 是否启用调试模式
+  verbose: true  # 是否详细输出
+  save_intermediate: true  # 是否保存中间结果
+  
+# 日志配置
+logging:
+  level: "INFO"  # 日志级别
+  file: "logs/rca_analysis.log"  # 日志文件
+  max_size: "10MB"  # 最大日志文件大小
+  backup_count: 5  # 备份文件数量

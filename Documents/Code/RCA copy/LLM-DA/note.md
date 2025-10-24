@@ -1,0 +1,697 @@
+write file gen_rules_iteration/icews14_tiny/clean/rules/Accede_to_requests_or_demands_for_political_reform_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Accede_to_requests_or_demands_for_political_reform_summarized_rules.txt with keeping the format
+Start summarize:  inv_Discuss_by_telephone.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Discuss_by_telephone_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Discuss_by_telephone_summarized_rules.txt with keeping the format
+Start summarize:  inv_Provide_economic_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_economic_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_economic_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_material_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_material_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_material_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_accord.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_accord_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_accord_summarized_rules.txt with keeping the format
+Start summarize:  Threaten.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_summarized_rules.txt with keeping the format
+Start summarize:  inv_Attempt_to_assassinate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Attempt_to_assassinate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Attempt_to_assassinate_summarized_rules.txt with keeping the format
+Start summarize:  Rally_support_on_behalf_of.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Rally_support_on_behalf_of_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Rally_support_on_behalf_of_summarized_rules.txt with keeping the format
+Start summarize:  inv_Threaten_with_repression.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Threaten_with_repression_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Threaten_with_repression_summarized_rules.txt with keeping the format
+Start summarize:  Reject_request_for_change_in_leadership.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reject_request_for_change_in_leadership_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reject_request_for_change_in_leadership_summarized_rules.txt with keeping the format
+Start summarize:  inv_Give_ultimatum.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Give_ultimatum_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Give_ultimatum_summarized_rules.txt with keeping the format
+Start summarize:  Investigate_crime,_corruption.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Investigate_crime,_corruption_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Investigate_crime,_corruption_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demonstrate_for_policy_change.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demonstrate_for_policy_change_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demonstrate_for_policy_change_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_cooperate_militarily.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_cooperate_militarily_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_cooperate_militarily_summarized_rules.txt with keeping the format
+Start summarize:  Impose_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Impose_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Impose_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  inv_Obstruct_passage,_block.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Obstruct_passage,_block_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Obstruct_passage,_block_summarized_rules.txt with keeping the format
+Start summarize:  inv_Occupy_territory.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Occupy_territory_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Occupy_territory_summarized_rules.txt with keeping the format
+Start summarize:  inv_Rally_support_on_behalf_of.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Rally_support_on_behalf_of_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Rally_support_on_behalf_of_summarized_rules.txt with keeping the format
+Start summarize:  Accuse_of_human_rights_abuses.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_human_rights_abuses_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_human_rights_abuses_summarized_rules.txt with keeping the format
+Start summarize:  Engage_in_judicial_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_judicial_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_judicial_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  Reduce_or_stop_military_assistance.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_or_stop_military_assistance_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_or_stop_military_assistance_summarized_rules.txt with keeping the format
+Start summarize:  Demonstrate_or_rally.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demonstrate_or_rally_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demonstrate_or_rally_summarized_rules.txt with keeping the format
+Start summarize:  inv_Threaten_with_sanctions,_boycott,_embargo.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Threaten_with_sanctions,_boycott,_embargo_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Threaten_with_sanctions,_boycott,_embargo_summarized_rules.txt with keeping the format
+Start summarize:  Attempt_to_assassinate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Attempt_to_assassinate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Attempt_to_assassinate_summarized_rules.txt with keeping the format
+Start summarize:  Reduce_or_stop_material_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_or_stop_material_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_or_stop_material_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_to_engage_in_or_accept_mediation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_to_engage_in_or_accept_mediation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_to_engage_in_or_accept_mediation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Retreat_or_surrender_militarily.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Retreat_or_surrender_militarily_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Retreat_or_surrender_militarily_summarized_rules.txt with keeping the format
+Start summarize:  inv_Mobilize_or_increase_police_power.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Mobilize_or_increase_police_power_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Mobilize_or_increase_police_power_summarized_rules.txt with keeping the format
+Start summarize:  Make_statement.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Make_statement_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Make_statement_summarized_rules.txt with keeping the format
+Start summarize:  inv_Kill_by_physical_assault.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Kill_by_physical_assault_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Kill_by_physical_assault_summarized_rules.txt with keeping the format
+Start summarize:  inv_Coerce.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Coerce_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Coerce_summarized_rules.txt with keeping the format
+Start summarize:  Employ_aerial_weapons.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Employ_aerial_weapons_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Employ_aerial_weapons_summarized_rules.txt with keeping the format
+Start summarize:  inv_Make_pessimistic_comment.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Make_pessimistic_comment_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Make_pessimistic_comment_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_to_others_to_settle_dispute.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_to_others_to_settle_dispute_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_to_others_to_settle_dispute_summarized_rules.txt with keeping the format
+Start summarize:  inv_Mobilize_or_increase_armed_forces.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Mobilize_or_increase_armed_forces_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Mobilize_or_increase_armed_forces_summarized_rules.txt with keeping the format
+Start summarize:  Accuse_of_aggression.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_aggression_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_aggression_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_intelligence.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_intelligence_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_intelligence_summarized_rules.txt with keeping the format
+Start summarize:  Conduct_strike_or_boycott.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Conduct_strike_or_boycott_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Conduct_strike_or_boycott_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reduce_or_stop_humanitarian_assistance.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_or_stop_humanitarian_assistance_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_or_stop_humanitarian_assistance_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_mediate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_mediate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_mediate_summarized_rules.txt with keeping the format
+Start summarize:  inv_Ease_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  Reject_material_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reject_material_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reject_material_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  Provide_military_protection_or_peacekeeping.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Provide_military_protection_or_peacekeeping_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Provide_military_protection_or_peacekeeping_summarized_rules.txt with keeping the format
+Start summarize:  fight_with_artillery_and_tanks.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/fight_with_artillery_and_tanks_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/fight_with_artillery_and_tanks_summarized_rules.txt with keeping the format
+Start summarize:  inv_Ban_political_parties_or_politicians.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ban_political_parties_or_politicians_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ban_political_parties_or_politicians_summarized_rules.txt with keeping the format
+Start summarize:  inv_Forgive.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Forgive_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Forgive_summarized_rules.txt with keeping the format
+Start summarize:  Make_optimistic_comment.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Make_optimistic_comment_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Make_optimistic_comment_summarized_rules.txt with keeping the format
+Start summarize:  inv_Assassinate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Assassinate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Assassinate_summarized_rules.txt with keeping the format
+Start summarize:  inv_Conduct_hunger_strike.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Conduct_hunger_strike_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Conduct_hunger_strike_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_ease_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_ease_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_ease_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  Demand_humanitarian_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_humanitarian_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_humanitarian_aid_summarized_rules.txt with keeping the format
+Start summarize:  Refuse_to_de-escalate_military_engagement.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Refuse_to_de-escalate_military_engagement_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Refuse_to_de-escalate_military_engagement_summarized_rules.txt with keeping the format
+Start summarize:  Protest_violently,_riot.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Protest_violently,_riot_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Protest_violently,_riot_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_cooperate_on_intelligence.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_cooperate_on_intelligence_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_cooperate_on_intelligence_summarized_rules.txt with keeping the format
+Start summarize:  inv_Criticize_or_denounce.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Criticize_or_denounce_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Criticize_or_denounce_summarized_rules.txt with keeping the format
+Start summarize:  inv_Conduct_strike_or_boycott.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Conduct_strike_or_boycott_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Conduct_strike_or_boycott_summarized_rules.txt with keeping the format
+Start summarize:  Torture.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Torture_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Torture_summarized_rules.txt with keeping the format
+Start summarize:  Consult.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Consult_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Consult_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_mediate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_mediate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_mediate_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_judicial_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_judicial_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_judicial_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  Use_conventional_military_force.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Use_conventional_military_force_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Use_conventional_military_force_summarized_rules.txt with keeping the format
+Start summarize:  inv_Engage_in_diplomatic_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_diplomatic_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_diplomatic_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Engage_in_symbolic_act.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_symbolic_act_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_symbolic_act_summarized_rules.txt with keeping the format
+Start summarize:  Receive_inspectors.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Receive_inspectors_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Receive_inspectors_summarized_rules.txt with keeping the format
+Start summarize:  Mediate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Mediate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Mediate_summarized_rules.txt with keeping the format
+Start summarize:  inv_Carry_out_car_bombing.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Carry_out_car_bombing_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Carry_out_car_bombing_summarized_rules.txt with keeping the format
+Start summarize:  Engage_in_negotiation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_negotiation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_negotiation_summarized_rules.txt with keeping the format
+Start summarize:  Engage_in_mass_expulsion.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_mass_expulsion_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_mass_expulsion_summarized_rules.txt with keeping the format
+Start summarize:  Threaten_non-force.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_non-force_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_non-force_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_change_in_leadership.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_change_in_leadership_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_change_in_leadership_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_accept_mediation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_accept_mediation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_accept_mediation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Conduct_suicide,_car,_or_other_non-military_bombing.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Conduct_suicide,_car,_or_other_non-military_bombing_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Conduct_suicide,_car,_or_other_non-military_bombing_summarized_rules.txt with keeping the format
+Start summarize:  inv_Seize_or_damage_property.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Seize_or_damage_property_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Seize_or_damage_property_summarized_rules.txt with keeping the format
+Start summarize:  Impose_state_of_emergency_or_martial_law.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Impose_state_of_emergency_or_martial_law_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Impose_state_of_emergency_or_martial_law_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_aid_summarized_rules.txt with keeping the format
+Start summarize:  Refuse_to_ease_economic_sanctions,_boycott,_or_embargo.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Refuse_to_ease_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Refuse_to_ease_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt with keeping the format
+Start summarize:  Declare_truce,_ceasefire.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Declare_truce,_ceasefire_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Declare_truce,_ceasefire_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_to_others_to_meet_or_negotiate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_to_others_to_meet_or_negotiate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_to_others_to_meet_or_negotiate_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_yield.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_yield_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_yield_summarized_rules.txt with keeping the format
+Start summarize:  Complain_officially.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Complain_officially_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Complain_officially_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_meeting,_negotiation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_meeting,_negotiation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_meeting,_negotiation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Return,_release_property.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Return,_release_property_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Return,_release_property_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_engage_in_material_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_engage_in_material_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_engage_in_material_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  Confiscate_property.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Confiscate_property_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Confiscate_property_summarized_rules.txt with keeping the format
+Start summarize:  Apologize.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Apologize_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Apologize_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_provide_military_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_military_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_military_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Ease_economic_sanctions,_boycott,_embargo.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_economic_sanctions,_boycott,_embargo_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_economic_sanctions,_boycott,_embargo_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_release_persons_or_property.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_release_persons_or_property_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_release_persons_or_property_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reject_military_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_military_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_military_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  Engage_in_symbolic_act.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_symbolic_act_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_symbolic_act_summarized_rules.txt with keeping the format
+Start summarize:  Demand_material_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_material_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_material_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Threaten_with_military_force.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Threaten_with_military_force_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Threaten_with_military_force_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_military_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_military_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_military_aid_summarized_rules.txt with keeping the format
+Start summarize:  Demand.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_summarized_rules.txt with keeping the format
+Start summarize:  Accuse_of_war_crimes.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_war_crimes_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_war_crimes_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_military_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_military_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_military_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Provide_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_aid_summarized_rules.txt with keeping the format
+Start summarize:  Reject_request_for_military_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reject_request_for_military_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reject_request_for_military_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demonstrate_for_leadership_change.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demonstrate_for_leadership_change_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demonstrate_for_leadership_change_summarized_rules.txt with keeping the format
+Start summarize:  Accuse_of_espionage,_treason.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_espionage,_treason_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_of_espionage,_treason_summarized_rules.txt with keeping the format
+Start summarize:  Reject_request_for_military_protection_or_peacekeeping.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reject_request_for_military_protection_or_peacekeeping_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reject_request_for_military_protection_or_peacekeeping_summarized_rules.txt with keeping the format
+Start summarize:  inv_Accuse_of_crime,_corruption.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accuse_of_crime,_corruption_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accuse_of_crime,_corruption_summarized_rules.txt with keeping the format
+Start summarize:  inv_Ease_curfew.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_curfew_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_curfew_summarized_rules.txt with keeping the format
+Start summarize:  Ban_political_parties_or_politicians.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Ban_political_parties_or_politicians_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Ban_political_parties_or_politicians_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reduce_relations.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_relations_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_relations_summarized_rules.txt with keeping the format
+Start summarize:  inv_Impose_restrictions_on_political_freedoms.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Impose_restrictions_on_political_freedoms_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Impose_restrictions_on_political_freedoms_summarized_rules.txt with keeping the format
+Start summarize:  Demand_release_of_persons_or_property.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_release_of_persons_or_property_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_release_of_persons_or_property_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_change_institutions,_regime.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_change_institutions,_regime_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_change_institutions,_regime_summarized_rules.txt with keeping the format
+Start summarize:  inv_Physically_assault.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Physically_assault_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Physically_assault_summarized_rules.txt with keeping the format
+Start summarize:  Accuse.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Accuse_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_easing_of_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_easing_of_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_easing_of_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  inv_Impose_state_of_emergency_or_martial_law.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Impose_state_of_emergency_or_martial_law_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Impose_state_of_emergency_or_martial_law_summarized_rules.txt with keeping the format
+Start summarize:  inv_fight_with_artillery_and_tanks.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_fight_with_artillery_and_tanks_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_fight_with_artillery_and_tanks_summarized_rules.txt with keeping the format
+Start summarize:  inv_Use_as_human_shield.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Use_as_human_shield_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Use_as_human_shield_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_economic_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_economic_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_economic_aid_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_target_to_allow_international_involvement_(non-mediation).txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_target_to_allow_international_involvement_(non-mediation)_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_target_to_allow_international_involvement_(non-mediation)_summarized_rules.txt with keeping the format
+Start summarize:  inv_Bring_lawsuit_against.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Bring_lawsuit_against_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Bring_lawsuit_against_summarized_rules.txt with keeping the format
+Start summarize:  Return,_release_person(s).txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Return,_release_person(s)_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Return,_release_person(s)_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_economic_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_economic_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_economic_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reject_proposal_to_meet,_discuss,_or_negotiate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_proposal_to_meet,_discuss,_or_negotiate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_proposal_to_meet,_discuss,_or_negotiate_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_to_others_to_meet_or_negotiate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_to_others_to_meet_or_negotiate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_to_others_to_meet_or_negotiate_summarized_rules.txt with keeping the format
+Start summarize:  inv_Impose_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Impose_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Impose_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  Reduce_or_break_diplomatic_relations.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_or_break_diplomatic_relations_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_or_break_diplomatic_relations_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_provide_military_protection_or_peacekeeping.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_military_protection_or_peacekeeping_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_military_protection_or_peacekeeping_summarized_rules.txt with keeping the format
+Start summarize:  inv_Grant_asylum.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Grant_asylum_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Grant_asylum_summarized_rules.txt with keeping the format
+Start summarize:  Impose_blockade,_restrict_movement.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Impose_blockade,_restrict_movement_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Impose_blockade,_restrict_movement_summarized_rules.txt with keeping the format
+Start summarize:  Demand_policy_change.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_policy_change_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_policy_change_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_military_protection_or_peacekeeping.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_military_protection_or_peacekeeping_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_military_protection_or_peacekeeping_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reduce_or_stop_economic_assistance.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_or_stop_economic_assistance_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_or_stop_economic_assistance_summarized_rules.txt with keeping the format
+Start summarize:  Ease_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Ease_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Ease_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  Expel_or_deport_individuals.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Expel_or_deport_individuals_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Expel_or_deport_individuals_summarized_rules.txt with keeping the format
+Start summarize:  inv_Engage_in_mass_killings.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_mass_killings_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_mass_killings_summarized_rules.txt with keeping the format
+Start summarize:  inv_Arrest,_detain,_or_charge_with_legal_action.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Arrest,_detain,_or_charge_with_legal_action_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Arrest,_detain,_or_charge_with_legal_action_summarized_rules.txt with keeping the format
+Start summarize:  inv_Host_a_visit.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Host_a_visit_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Host_a_visit_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_provide_humanitarian_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_provide_humanitarian_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_provide_humanitarian_aid_summarized_rules.txt with keeping the format
+Start summarize:  Demand_de-escalation_of_military_engagement.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_de-escalation_of_military_engagement_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_de-escalation_of_military_engagement_summarized_rules.txt with keeping the format
+Start summarize:  Demand_that_target_yields.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_that_target_yields_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_that_target_yields_summarized_rules.txt with keeping the format
+Start summarize:  Share_intelligence_or_information.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Share_intelligence_or_information_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Share_intelligence_or_information_summarized_rules.txt with keeping the format
+Start summarize:  Reject.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reject_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reject_summarized_rules.txt with keeping the format
+Start summarize:  inv_Violate_ceasefire.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Violate_ceasefire_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Violate_ceasefire_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_release_of_persons_or_property.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_release_of_persons_or_property_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_release_of_persons_or_property_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_policy_change.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_policy_change_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_policy_change_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_rights.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_rights_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_rights_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_institute_political_reform.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_institute_political_reform_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_institute_political_reform_summarized_rules.txt with keeping the format
+Start summarize:  Make_empathetic_comment.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Make_empathetic_comment_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Make_empathetic_comment_summarized_rules.txt with keeping the format
+Start summarize:  inv_Cooperate_militarily.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Cooperate_militarily_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Cooperate_militarily_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_engage_in_material_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_engage_in_material_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_engage_in_material_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Engage_in_judicial_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_judicial_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Engage_in_judicial_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_change_leadership.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_change_leadership_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_change_leadership_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_de-escalate_military_engagement.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_de-escalate_military_engagement_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_de-escalate_military_engagement_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_release_of_persons_or_property.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_release_of_persons_or_property_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_release_of_persons_or_property_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_aid_summarized_rules.txt with keeping the format
+Start summarize:  Use_unconventional_violence.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Use_unconventional_violence_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Use_unconventional_violence_summarized_rules.txt with keeping the format
+Start summarize:  Expel_or_withdraw.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Expel_or_withdraw_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Expel_or_withdraw_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_political_reform.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_political_reform_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_political_reform_summarized_rules.txt with keeping the format
+Start summarize:  Retreat_or_surrender_militarily.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Retreat_or_surrender_militarily_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Retreat_or_surrender_militarily_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_provide_humanitarian_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_humanitarian_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_humanitarian_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_political_reform.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_political_reform_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_political_reform_summarized_rules.txt with keeping the format
+Start summarize:  inv_Mediate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Mediate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Mediate_summarized_rules.txt with keeping the format
+Start summarize:  Occupy_territory.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Occupy_territory_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Occupy_territory_summarized_rules.txt with keeping the format
+Start summarize:  Make_a_visit.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Make_a_visit_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Make_a_visit_summarized_rules.txt with keeping the format
+Start summarize:  inv_Praise_or_endorse.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Praise_or_endorse_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Praise_or_endorse_summarized_rules.txt with keeping the format
+Start summarize:  inv_Accuse_of_human_rights_abuses.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accuse_of_human_rights_abuses_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accuse_of_human_rights_abuses_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_ease_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt with keeping the format
+Start summarize:  Demonstrate_for_policy_change.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demonstrate_for_policy_change_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demonstrate_for_policy_change_summarized_rules.txt with keeping the format
+Start summarize:  inv_Investigate_crime,_corruption.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Investigate_crime,_corruption_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Investigate_crime,_corruption_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_provide_economic_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_economic_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_provide_economic_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Consult.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Consult_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Consult_summarized_rules.txt with keeping the format
+Start summarize:  inv_Torture.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Torture_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Torture_summarized_rules.txt with keeping the format
+Start summarize:  Rally_opposition_against.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Rally_opposition_against_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Rally_opposition_against_summarized_rules.txt with keeping the format
+Start summarize:  Forgive.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Forgive_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Forgive_summarized_rules.txt with keeping the format
+Start summarize:  inv_Accede_to_demands_for_change_in_policy.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accede_to_demands_for_change_in_policy_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accede_to_demands_for_change_in_policy_summarized_rules.txt with keeping the format
+Start summarize:  inv_Provide_humanitarian_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_humanitarian_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_humanitarian_aid_summarized_rules.txt with keeping the format
+Start summarize:  Detonate_nuclear_weapons.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Detonate_nuclear_weapons_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Detonate_nuclear_weapons_summarized_rules.txt with keeping the format
+Start summarize:  Use_tactics_of_violent_repression.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Use_tactics_of_violent_repression_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Use_tactics_of_violent_repression_summarized_rules.txt with keeping the format
+Start summarize:  Engage_in_political_dissent.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_political_dissent_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Engage_in_political_dissent_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reject_request_for_change_in_leadership.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_request_for_change_in_leadership_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_request_for_change_in_leadership_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reduce_or_break_diplomatic_relations.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_or_break_diplomatic_relations_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reduce_or_break_diplomatic_relations_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_cooperate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_cooperate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_cooperate_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_settle_dispute.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_settle_dispute_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_settle_dispute_summarized_rules.txt with keeping the format
+Start summarize:  Use_chemical,_biological,_or_radiological_weapons.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Use_chemical,_biological,_or_radiological_weapons_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Use_chemical,_biological,_or_radiological_weapons_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_for_easing_of_economic_sanctions,_boycott,_or_embargo_summarized_rules.txt with keeping the format
+Start summarize:  Reduce_relations.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_relations_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reduce_relations_summarized_rules.txt with keeping the format
+Start summarize:  Threaten_with_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_with_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_with_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  inv_Express_intent_to_institute_political_reform.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_institute_political_reform_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Express_intent_to_institute_political_reform_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_judicial_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_judicial_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_judicial_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Use_conventional_military_force.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Use_conventional_military_force_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Use_conventional_military_force_summarized_rules.txt with keeping the format
+Start summarize:  Demand_judicial_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demand_judicial_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demand_judicial_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Make_statement.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Make_statement_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Make_statement_summarized_rules.txt with keeping the format
+Start summarize:  Give_ultimatum.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Give_ultimatum_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Give_ultimatum_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_humanitarian_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_humanitarian_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_humanitarian_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_military_protection_or_peacekeeping.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_military_protection_or_peacekeeping_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_military_protection_or_peacekeeping_summarized_rules.txt with keeping the format
+Start summarize:  inv_Accuse_of_espionage,_treason.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accuse_of_espionage,_treason_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accuse_of_espionage,_treason_summarized_rules.txt with keeping the format
+Start summarize:  inv_Reject_judicial_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_judicial_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_judicial_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_diplomatic_cooperation_(such_as_policy_support).txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_diplomatic_cooperation_(such_as_policy_support)_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_diplomatic_cooperation_(such_as_policy_support)_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_target_to_allow_international_involvement_(non-mediation).txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_target_to_allow_international_involvement_(non-mediation)_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_target_to_allow_international_involvement_(non-mediation)_summarized_rules.txt with keeping the format
+Start summarize:  Demobilize_armed_forces.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Demobilize_armed_forces_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Demobilize_armed_forces_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_that_target_yields.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_that_target_yields_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_that_target_yields_summarized_rules.txt with keeping the format
+Start summarize:  inv_Provide_military_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_military_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Provide_military_aid_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_change_leadership.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_change_leadership_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_change_leadership_summarized_rules.txt with keeping the format
+Start summarize:  inv_Ease_state_of_emergency_or_martial_law.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_state_of_emergency_or_martial_law_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Ease_state_of_emergency_or_martial_law_summarized_rules.txt with keeping the format
+Start summarize:  Appeal_to_engage_in_or_accept_mediation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_to_engage_in_or_accept_mediation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Appeal_to_engage_in_or_accept_mediation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Demand_easing_of_administrative_sanctions.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_easing_of_administrative_sanctions_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Demand_easing_of_administrative_sanctions_summarized_rules.txt with keeping the format
+Start summarize:  Express_accord.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_accord_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_accord_summarized_rules.txt with keeping the format
+Start summarize:  Express_intent_to_provide_material_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_provide_material_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Express_intent_to_provide_material_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Halt_negotiations.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Halt_negotiations_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Halt_negotiations_summarized_rules.txt with keeping the format
+Start summarize:  Threaten_with_military_force.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_with_military_force_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Threaten_with_military_force_summarized_rules.txt with keeping the format
+Start summarize:  Reject_economic_cooperation.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reject_economic_cooperation_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reject_economic_cooperation_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_diplomatic_cooperation_(such_as_policy_support).txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_diplomatic_cooperation_(such_as_policy_support)_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_diplomatic_cooperation_(such_as_policy_support)_summarized_rules.txt with keeping the format
+Start summarize:  Sign_formal_agreement.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Sign_formal_agreement_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Sign_formal_agreement_summarized_rules.txt with keeping the format
+Start summarize:  inv_Investigate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Investigate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Investigate_summarized_rules.txt with keeping the format
+Start summarize:  Reject_proposal_to_meet,_discuss,_or_negotiate.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/Reject_proposal_to_meet,_discuss,_or_negotiate_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/Reject_proposal_to_meet,_discuss,_or_negotiate_summarized_rules.txt with keeping the format
+Error: Rule 9. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X3,T3)<-inv_Express_intent_to_change_policy(X0,X1,T0)&inv_Reject(X1,X2,T1) does not conform to the definition of chain rule.
+Error: Rule 14. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Threaten_with_military_force(X0,X2,T0)&Reject(X2,X1,T2) time_squeque is error.
+Error: Rule 4. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Express_intent_to_meet_or_negotiate(X0,X1,T0)&Reject(X1,X0,T2) does not conform to the definition of chain rule.
+Error: Rule 4. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Express_intent_to_meet_or_negotiate(X0,X1,T0)&Reject(X1,X0,T2) time_squeque is error.
+Error: Rule 10. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Accuse_of_crime,_corruption(X0,X2,T0)&Make_statement(X2,X1,T2) time_squeque is error.
+Error: Rule 8. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Refuse_to_yield(X0,X2,T0)&Make_statement(X2,X1,T2) time_squeque is error.
+Error: Rule 12. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Engage_in_symbolic_act(X0,X2,T0)&Reject(X2,X1,T2) time_squeque is error.
+Error: Rule 13. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Express_intent_to_yield(X0,X2,T0)&Reject(X2,X1,T2) time_squeque is error.
+Error: Rule 15. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X1,T1)<-inv_Refuse_to_ease_administrative_sanctions(X0,X2,T0)&Reject(X2,X1,T2) time_squeque is error.
+Error: Rule 3. Reject_proposal_to_meet,_discuss,_or_negotiate(X0,X3,T3)<-inv_Threaten(X0,X1,T0)&Make_optimistic_comment(X1,X2,T1) does not conform to the definition of chain rule.
+Start summarize:  inv_Reject_request_for_military_aid.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_request_for_military_aid_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Reject_request_for_military_aid_summarized_rules.txt with keeping the format
+Start summarize:  inv_Receive_deployment_of_peacekeepers.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Receive_deployment_of_peacekeepers_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Receive_deployment_of_peacekeepers_summarized_rules.txt with keeping the format
+Start summarize:  inv_Return,_release_person(s).txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Return,_release_person(s)_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Return,_release_person(s)_summarized_rules.txt with keeping the format
+Start summarize:  inv_Appeal_for_change_in_institutions,_regime.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_change_in_institutions,_regime_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Appeal_for_change_in_institutions,_regime_summarized_rules.txt with keeping the format
+Start summarize:  inv_Accede_to_requests_or_demands_for_political_reform.txt
+write file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accede_to_requests_or_demands_for_political_reform_summarized_rules.txt
+Clean file gen_rules_iteration/icews14_tiny/clean/rules/inv_Accede_to_requests_or_demands_for_political_reform_summarized_rules.txt with keeping the format
+Use cache from: ./datasets/icews14_tiny/entity2id.json
+Use cache from: ./datasets/icews14_tiny/relation2id.json
+Use cache from: ./datasets/icews14_tiny/ts2id.json
+Grapher initialized.
+Use cache from: ./Config/constant.json
+Use cache from: sampled_path/icews14_tiny/original/rules_var.json
+Number of relations with rules:  0
+Total number of rules:  0
+Number of rules by length:  []
+Data has been converted to JSON and saved to gen_rules_iteration/icews14_tiny/evaluation/eva/0_confidence.json
+程序运行时间：0.08298165400822957分钟
+  0%|                                                                                 | 0/4 [00:00<?, ?it/s]File not found: sampled_path/icews14_tiny_valid/rules_name.json
+File not found: sampled_path/icews14_tiny_valid/rules_name.json
+File not found: sampled_path/icews14_tiny_valid/rules_name.json
+File not found: sampled_path/icews14_tiny_valid/rules_name.json
+  0%|                                                                                 | 0/4 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/yiyang/Documents/Code/RCA/LLM-DA/Iteration_reasoning.py", line 1596, in <module>
+    main(args, LLM)
+  File "/Users/yiyang/Documents/Code/RCA/LLM-DA/Iteration_reasoning.py", line 652, in main
+    llm_rule_generate(
+  File "/Users/yiyang/Documents/Code/RCA/LLM-DA/Iteration_reasoning.py", line 834, in llm_rule_generate
+    gen_rules_iteration(args, kg_rules_path, model, rdict, relation_regex,
+  File "/Users/yiyang/Documents/Code/RCA/LLM-DA/Iteration_reasoning.py", line 892, in gen_rules_iteration
+    for _ in tqdm(
+  File "/Users/yiyang/Library/Python/3.9/lib/python/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/multiprocessing/pool.py", line 870, in next
+    raise value
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/Users/yiyang/Documents/Code/RCA/LLM-DA/Iteration_reasoning.py", line 302, in generate_rule_for_iteration_by_multi_thread
+    head_formate, candidate_rels, args.is_zero, args, prompt_dict
+NameError: name 'prompt_dict' is not defined
